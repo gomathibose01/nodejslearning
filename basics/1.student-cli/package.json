@@ -1,0 +1,12 @@
+{
+  "name": "student-management-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "db-init": "node cli/manage-db.js",
+    "cli-manage": "node cli/manage-students.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}

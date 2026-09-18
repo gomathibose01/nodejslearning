@@ -1,0 +1,16 @@
+{
+  "name": "student-cli-prisma",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "db-init": "prisma db push && node cli/manage-db.js",
+    "cli-manage": "node cli/manage-students.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.20.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.20.0"
+  }
+}
+
