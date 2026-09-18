@@ -1,0 +1,5 @@
+basics/student-cli/node_modules/
+basics/student-cli/data/*.db
+**/node_modules/
+**/data/*.db
+

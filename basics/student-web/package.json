@@ -1,0 +1,14 @@
+{
+  "name": "student-web-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "db-init": "node bin/manage-db.js" 
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "sqlite3": "^5.1.7"
+  }
+}
