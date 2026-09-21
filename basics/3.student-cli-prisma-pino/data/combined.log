@@ -1,0 +1,25 @@
+{"level":30,"time":1789726861056,"pid":916660,"hostname":"popup64","msg":"🏁 Initiating database structural layout verification and mock seeding..."}
+{"level":30,"time":1789726861082,"pid":916660,"hostname":"popup64","studentId":1,"email":"gomathi@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789726861083,"pid":916660,"hostname":"popup64","studentId":2,"email":"hari@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789726861083,"pid":916660,"hostname":"popup64","msg":"✅ Database setup phase completed safely."}
+{"level":30,"time":1789727058649,"pid":916946,"hostname":"popup64","msg":"🏁 Initiating database structural layout verification and mock seeding..."}
+{"level":30,"time":1789727058667,"pid":916946,"hostname":"popup64","studentId":1,"email":"gomathi@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789727058668,"pid":916946,"hostname":"popup64","studentId":2,"email":"hari@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789727058668,"pid":916946,"hostname":"popup64","msg":"✅ Database setup phase completed safely."}
+{"level":30,"time":1789727201771,"pid":917170,"hostname":"popup64","msg":"🏁 Initiating database structural layout verification and mock seeding..."}
+{"level":30,"time":1789727201787,"pid":917170,"hostname":"popup64","studentId":1,"email":"gomathi@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789727201788,"pid":917170,"hostname":"popup64","studentId":2,"email":"hari@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789727201788,"pid":917170,"hostname":"popup64","msg":"✅ Database setup phase completed safely."}
+{"level":30,"time":1789727220366,"pid":917258,"hostname":"popup64","msg":"🏁 Initiating database structural layout verification and mock seeding..."}
+{"level":30,"time":1789727220393,"pid":917258,"hostname":"popup64","studentId":1,"email":"gomathi@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789727220394,"pid":917258,"hostname":"popup64","studentId":2,"email":"hari@school.com","msg":"Mock record transaction processed successfully."}
+{"level":30,"time":1789727220394,"pid":917258,"hostname":"popup64","msg":"✅ Database setup phase completed safely."}
+{"level":30,"time":1789727272702,"pid":917322,"hostname":"popup64","payload":{"name":"goms","email":"gb@hh.com","grade":"A"},"msg":"Attempting creation transaction sequence..."}
+{"level":30,"time":1789727272716,"pid":917322,"hostname":"popup64","newStudentId":3,"msg":"✅ Record successfully written down to structural tables."}
+{"level":40,"time":1789727281225,"pid":917322,"hostname":"popup64","invalidInput":"","msg":"Selection parameter mismatch outside dashboard boundaries."}
+{"level":40,"time":1789727288293,"pid":917322,"hostname":"popup64","invalidInput":"aa","msg":"Selection parameter mismatch outside dashboard boundaries."}
+{"level":30,"time":1789727291430,"pid":917322,"hostname":"popup64","msg":"Shutting down framework operations, closing active worker streams."}
+{"level":30,"time":1789727346187,"pid":917370,"hostname":"popup64","msg":"Request received: Fetching entire roster records array..."}
+{"level":30,"time":1789727346202,"pid":917370,"hostname":"popup64","recordCount":3,"msg":"Roster query operation successfully logged out."}
+{"level":40,"time":1789727372412,"pid":917370,"hostname":"popup64","invalidInput":"","msg":"Selection parameter mismatch outside dashboard boundaries."}
+{"level":40,"time":1789727375646,"pid":917370,"hostname":"popup64","invalidInput":"","msg":"Selection parameter mismatch outside dashboard boundaries."}
