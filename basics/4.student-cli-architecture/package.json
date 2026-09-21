@@ -1,0 +1,26 @@
+{
+  "name": "4.student-cli-architecture",
+  "version": "1.0.0",
+  "description": "Student management CLI",
+  "type": "module",
+  "bin": { "studentctl": "./bin/popup-cli.js" },
+  "scripts": {
+    "start":        "node bin/popup-cli.js",
+    "db:push":      "prisma db push",
+    "db:generate":  "prisma generate",
+    "test:unit":    "node --test test/unit/core.test.js test/unit/studentService.test.js"
+  },
+  "dependencies": {
+    "@prisma/client":                 "^6.0.0",
+    "@prisma/adapter-better-sqlite3": "^6.0.0",
+    "better-sqlite3":                 "^9.0.0",
+    "commander":                      "^12.0.0",
+    "execa":                          "^9.5.2",
+    "pino":                           "^9.0.0",
+    "pino-pretty":                    "^11.0.0",
+    "zod":                            "^3.23.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.0.0"
+  }
+}
